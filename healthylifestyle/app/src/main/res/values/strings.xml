@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Healthy LifeStyle</string>
+    <string name="load_error">Failed to load Articles!!!</string>
+</resources>
